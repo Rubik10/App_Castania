@@ -1,0 +1,65 @@
+
+
+{
+    "items" : [
+
+    		   {
+               "titulo" : "CDHYF - El Mundo de Hielo y Fuego" ,
+               "descripcion" : "Una visita ilustrada a los Siete Reinos y al mundo de Juego de tronos. El mundo de hielo y fuego es un trabajo de documentación titánico que abarca desde la Era del Amanecer hasta la actualidad." ,
+               "imagen" : "/img/MundoHieloFuego.jpg" ,
+               "uds" : 60 ,
+               "precio" : 36.00
+               } ,
+               
+               {
+               "titulo" : "CDHYF I - Juego de Tronos [Lujo]" ,
+               "descripcion" : "Primer Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin." ,
+               "imagen" : "/img/JuegoTronos.jpg",
+               "uds" : 60 ,
+               "precio" : 36.00
+               } ,
+
+               {
+               "titulo" : "CDHYF II - Choque de Reyes [Lujo]" ,
+               "descripcion" : "Segundo Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/chokeReyes.jpg" ,
+               "uds" : 60 ,
+               "precio" : 36.00
+               } ,
+
+               {
+               "titulo" : "CDHYF III - Tormentas de Espadas [Lujo]" ,
+               "descripcion" : "Tercer Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/TormentaSpadas.jpg" ,
+               "uds" : 60 ,
+               "precio" : 36.00
+               } ,
+
+               {
+               "titulo" : "CDHYF IV - Festin de Cuervos [Lujo]" ,
+               "descripcion" : "Cuarto Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" : "/img/FestinCuervos.jpg" ,
+               "uds" : 60 ,
+               "precio" : 36.00
+               } ,
+
+               {
+               "titulo" : "CDHYF V - Danza de Dragones [Lujo]" ,
+               "descripcion" : "Quinto Libro de la saga Canción de Hielo y Fuego creado por George R. R Martin" ,
+               "imagen" :"/img/DanzaDragones.jpg",
+               "uds" : 60 ,
+               "precio" : 36.00
+               } 
+
+               ,
+
+                 {
+               "titulo" : "Allen Iverson" ,
+               "descripcion" : "Mejor Jugaor de la Historia" ,
+               "imagen" : "/img/iverson.png" ,
+               "uds" : 60 ,
+               "precio" : 36.00
+               } 
+               
+            ] 
+}
